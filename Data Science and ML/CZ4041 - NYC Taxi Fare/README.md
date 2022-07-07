@@ -1,6 +1,6 @@
 # CZ4041 Group 31
 # Topic chosen: New York City Taxi Fare Prediction
-## Members: Satini Sankeerthana (U1922470G), Tok Jeng Wen (U1922943D)
+## Members: Satini Sankeerthana (Github: RecStu14), Tok Jeng Wen (Github: jwenT96)
 
 ### Folder: Final sumitted kaggle csv
 ---------------------------------------------------------------------
