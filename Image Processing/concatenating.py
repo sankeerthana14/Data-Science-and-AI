@@ -1,8 +1,6 @@
 #CONCATENATING 
 """
 This Python File concatenates all the images into 1 single matrix/grid.
-This file by default retrieves images from the SIMPLE Directory - Please refer to the README.txt 
-to konw the corresponding variable to change to the other Directory of Images.
 """
 #Importing Necessary Libraries
 import numpy as np
