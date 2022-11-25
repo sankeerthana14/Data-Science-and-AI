@@ -1,8 +1,6 @@
 # DETECTING SPOTS V1
 """
 This Python File detects all the red and blue spots.
-This file by default retrieves images from the SIMPLE Directory - Please refer to the README.txt 
-to konw the corresponding variable to change to the other Directory of Images.
 """
 
 #Importing Necessary Libraries
